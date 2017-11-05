@@ -1,5 +1,9 @@
 # nVidia Deep Learning Challanges Submission
 
+## [https://drive.google.com/open?id=0B-A87zYQotkcQjhGQ3BFdUVtdWs](https://drive.google.com/open?id=0B-A87zYQotkcQjhGQ3BFdUVtdWs)
+
+<p> please find code from google drive </p>
+
 ### Problem 1 - Creating Smarter and safer cities
 
 ### Problem 2 - AI in health care 
@@ -49,6 +53,8 @@ We added two data sets to train our model
 
 ## Solution 2 - Skin Cancer Classifier
 <p>To explain AI in health care we implemented Skin Cancer classifier which can be used in heath care neural network.</p>
+
+### Accuracy 70%
 
 
 
